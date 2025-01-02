@@ -1,2 +1,4 @@
-# gyurinemtudja
-Info ágazati alapvizsga tételek
+# Gyuri nem tudja
+## Info ágazati alapvizsga tételek
+
+
